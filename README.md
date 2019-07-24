@@ -3,6 +3,7 @@
 ## About
     
 Provided a folder with images and corresponding audio files, such as yo.gif and yo.wav, the program will randomise the audio and show the 'answer' image when requested.
+
 This was created for learning Japanese characters, but could equally be used for other languages or even UK Road Signs.
 
 ## Commands
@@ -21,7 +22,10 @@ This was created for learning Japanese characters, but could equally be used for
 7. Repeat 5 and 6
 
 All audio must be .wav files
+
 All images must be .gif files
+
 Audio and Images can be converted online or with software
-Images must have the same name as the audio file
+
+Images must have the same name as the audio file,
 e.g. random.wav and random.gif
